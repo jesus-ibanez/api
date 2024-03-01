@@ -1,8 +1,16 @@
 {
-  "posts": [
+  "acta": [
     {
       "id": 1,
-      "title": "hello"
+      "nombre": "Jesús Agustín",
+      "ap_paterno": "Ibáñez",
+      "ap_materno": "Calvo"
+    },
+    {
+      "id": 2,
+      "nombre": "Josué David",
+      "ap_paterno": "Torres",
+      "ap_materno": "Covarrubias"
     }
   ],
   "profile": {
