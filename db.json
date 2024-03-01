@@ -4,13 +4,15 @@
       "id": 1,
       "nombre": "Jesús Agustín",
       "ap_paterno": "Ibáñez",
-      "ap_materno": "Calvo"
+      "ap_materno": "Calvo",
+      "Fecha_nacimiento": "01-01-1990"
     },
     {
       "id": 2,
       "nombre": "Josué David",
       "ap_paterno": "Torres",
-      "ap_materno": "Covarrubias"
+      "ap_materno": "Covarrubias",
+      "Fecha_nacimiento": "01-01-2000"
     }
   ],
   "profile": {
